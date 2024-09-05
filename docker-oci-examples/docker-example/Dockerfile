@@ -1,2 +1,2 @@
-From alpine:latest
+From centos:latest
 
