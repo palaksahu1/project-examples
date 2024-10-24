@@ -1,2 +1,2 @@
-From centos:latest
+From ubuntu:latest
 
